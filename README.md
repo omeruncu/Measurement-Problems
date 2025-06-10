@@ -44,7 +44,7 @@ This module covers the following topics:
 <!-- CONTACT -->
 ## Contact
 
-* Project Link: [https://github.com/omeruncu/CRMAnalytics](https://github.com/omeruncu/CRMAnalytics)
+* Project Link: [https://github.com/omeruncu/Measurement-Problems](https://github.com/omeruncu/Measurement-Problems)
 * Linkedin : [https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
 
 
