@@ -29,10 +29,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This module covers the following topics:
-- Introduction to CRM Analytics
-- RFM Analysis
-- Customer Lifetime Value (CLTV)
-- CLTV Estimation
+- Rating Products
+- Sorting Products
+- Sorting Reviews
+- AB Testin
 
 <!-- STUDY CASES -->
 ## Study Cases
