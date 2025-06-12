@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/omeruncu/Measurement-Problems"></a>
 
-  <h3 align="center">CRM Analytics</h3>
+  <h3 align="center">Measurement Problems</h3>
 
   <p align="center">
     <br />
@@ -51,16 +51,15 @@ Facebook recently introduced a new bid type called “averagebidding” as an al
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/omeruncu/CRMAnalytics.svg?style=for-the-badge
-[contributors-url]: https://github.com/omeruncu/CRMAnalytics/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/omeruncu/CRMAnalytics.svg?style=for-the-badge
-[forks-url]: https://github.com/omeruncu/CRMAnalytics/network/members
-[stars-shield]: https://img.shields.io/github/stars/omeruncu/CRMAnalytics.svg?style=for-the-badge
-[stars-url]: https://github.com/omeruncu/CRMAnalytics/stargazers
-[issues-shield]: https://img.shields.io/github/issues/omeruncu/CRMAnalytics.svg?style=for-the-badge
-[issues-url]: https://github.com/omeruncu/CRMAnalytics/issues
-[license-shield]: https://img.shields.io/github/license/omeruncu/CRMAnalytics.svg?style=for-the-badge
-[license-url]: https://github.com/omeruncu/CRMAnalytics/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/omeruncu/Measurement-Problems.svg?style=for-the-badge
+[contributors-url]: https://github.com/omeruncu/Measurement-Problems/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/omeruncu/Measurement-Problems.svg?style=for-the-badge
+[forks-url]: https://github.com/omeruncu/Measurement-Problems/network/members
+[stars-shield]: https://img.shields.io/github/stars/omeruncu/Measurement-Problems.svg?style=for-the-badge
+[stars-url]: https://github.com/omeruncu/Measurement-Problems/stargazers
+[issues-shield]: https://img.shields.io/github/issues/omeruncu/Measurement-Problems.svg?style=for-the-badge
+[issues-url]: https://github.com/omeruncu/Measurement-Problems/issues
+[license-shield]: https://img.shields.io/github/license/omeruncu/Measurement-Problems.svg?style=for-the-badge
+[license-url]: https://github.com/omeruncu/Measurement-Problems/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/
-[product-screenshot]: images/screenshot.png
