@@ -37,6 +37,8 @@ This module covers the following topics:
 ### Case 1 
 One of the most important problems in e-commerce is the correct calculation of the scores given to products after sales. The solution to this problem means providing more customer satisfaction for the e-commerce site, highlighting the product for sellers and a smooth shopping experience for buyers. Another problem is the correct ordering of the comments given to the products. Since the prominence of misleading comments will directly affect the sales of the product, it will cause both financial loss and loss of customers. In the solution of these 2 basic problems, the e-commerce site and sellers will increase their sales while customers will complete the purchasing journey without any problems.
 
+* Kaggle Link: [https://www.kaggle.com/code/omeruncu/rating-product-sorting-reviews-in-amazon](https://www.kaggle.com/code/omeruncu/rating-product-sorting-reviews-in-amazon)
+
 ### Case 2
 Facebook recently introduced a new bid type called “averagebidding” as an alternative to the existing bidding type called “maximumbidding”. One of our clients, bombabomba.com, decided to test this new feature and wanted to run an A/B test to see if averagebidding brings more conversions than maximumbidding. The A/B test has been running for 1 month and bombabomba.com now expects you to analyze the results of this A/B test. The ultimate success metric for bombabomba.com is Purchase. Therefore, the focus for statistical tests should be on the Purchase metric.
 
