@@ -28,9 +28,33 @@
 ## About The Project
 This module covers the following topics:
 - Rating Products
+  - Rating Products
+  - Average
+  - Time-Based Weighted Average
+  - User-Based Weighted Average
+  - Weighted Rating
 - Sorting Products
+  - Sorting by Comment Count or Purchase Count
+  - Sortşng by Rating, Comment and Purchase
+  - Bayesian Average Rating Score
+  - Hybrid Sorting
+  - IMDB Movie Scoring and Sorting
+  - IMDB Weighted Rating
+  - BAR Score
 - Sorting Reviews
+  - Up-Down Difference Score
+  - Average Rating
+  - Wilson Lower Bound Score
+  - Case Study
 - AB Testin
+  - Sampling
+  - Descriptive Statistics
+  - Confidence Intervals
+  - Correlation
+  - Hypothesis Testing
+  - Independent Sample T-Test
+  - Two Sample Proportions
+  - ANOVA-Analysis of Variance
 
 <!-- STUDY CASES -->
 ## Study Cases
