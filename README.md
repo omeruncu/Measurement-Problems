@@ -74,7 +74,8 @@ Facebook recently introduced a new bid type called “averagebidding” as an al
 * Project Link: [https://github.com/omeruncu/Measurement-Problems](https://github.com/omeruncu/Measurement-Problems)
 * Linkedin : [https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
 
-
+## Certificate
+[https://learning.miuul.com/certificates/bjuintj8ai]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
