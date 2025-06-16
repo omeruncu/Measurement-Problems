@@ -66,6 +66,7 @@ One of the most important problems in e-commerce is the correct calculation of t
 ### Case 2
 Facebook recently introduced a new bid type called “averagebidding” as an alternative to the existing bidding type called “maximumbidding”. One of our clients, bombabomba.com, decided to test this new feature and wanted to run an A/B test to see if averagebidding brings more conversions than maximumbidding. The A/B test has been running for 1 month and bombabomba.com now expects you to analyze the results of this A/B test. The ultimate success metric for bombabomba.com is Purchase. Therefore, the focus for statistical tests should be on the Purchase metric.
 
+* Kaggle Link: [https://www.kaggle.com/code/omeruncu/ab-testing](https://www.kaggle.com/code/omeruncu/ab-testing)
 
 <!-- CONTACT -->
 ## Contact
