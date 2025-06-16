@@ -35,7 +35,7 @@ This module covers the following topics:
   - Weighted Rating
 - Sorting Products
   - Sorting by Comment Count or Purchase Count
-  - Sortşng by Rating, Comment and Purchase
+  - Sorting by Rating, Comment and Purchase
   - Bayesian Average Rating Score
   - Hybrid Sorting
   - IMDB Movie Scoring and Sorting
